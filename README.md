@@ -68,15 +68,19 @@ The metrics that are considered within the results are Accuracy, Precision. Sens
 For all calculations TP = True Positives, TN = True Negatives, FP = False Positives, and FN = False Negatives.
 
 **Accuracy:** Accuracy is measured as the percentage of correct prediction. The equation for the calculation is shown below.
+
 ![Accuracy](images/Accuracy.PNG)
 
 **Precision:** Precision is a measure of the percentage of positive prediction that are correct. It is also a measure of how reliable a positive classification is.
+
 ![Precision](images/Precision.PNG)
 
 **Sensitivity:** Sensitivity (or Recall) measures the percentage of actual positive results that are correctly predicted as positive and is the true positive rate of the predictions. It van also be represented as how many observations with positive condition will be correctly diagnosed.
+
 ![Sensitivity](images/Sensitivity.PNG)
 
 **F1 Score:** This is a balance score that is given taking into consideration both the Precision and Sensitivity.
+
 ![F1 Score](images/F1Score.PNG)
 
 
